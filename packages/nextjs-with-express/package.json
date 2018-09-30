@@ -1,0 +1,19 @@
+{
+  "name": "custom-server-express",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "node -r esm server.js",
+    "build": "next build",
+    "start": "NODE_ENV=production node -r esm server.js"
+  },
+  "dependencies": {
+    "some-es6-package": "1",
+    "express": "^4.14.0",
+    "next": "latest",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0"
+  },
+  "devDependencies": {
+    "esm": "^3.0.84"
+  }
+}
