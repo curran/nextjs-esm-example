@@ -11,7 +11,7 @@ npm run dev
 
 Then access http://localhost:3000/
 
-The demo just shows "", but this is interesting because it's imported directly asn an ES6 module from within `node_modules` (Lerna-symlinked). This is enabled by `esm`.
+The demo just shows "Importing an ES6 module in Next.js via ESM worked!", but this is interesting because it's imported directly asn an ES6 module from within `node_modules` (Lerna-symlinked). This is enabled by `esm`.
 
 Draws from [Next.js Custom Server with Express example](https://github.com/zeit/next.js/blob/canary/examples/custom-server-express).
 
