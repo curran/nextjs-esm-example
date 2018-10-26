@@ -7,7 +7,7 @@ To run it:
 
 ```
 lerna bootstrap
-cd cd packages/nextjs-with-express/
+cd packages/nextjs-with-express/
 npm run dev
 ```
 
