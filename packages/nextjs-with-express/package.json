@@ -8,10 +8,10 @@
   },
   "dependencies": {
     "some-es6-package": "1",
-    "express": "^4.14.0",
+    "express": "^4.16.4",
     "next": "latest",
-    "react": "^16.0.0",
-    "react-dom": "^16.0.0"
+    "react": "^16.6.0",
+    "react-dom": "^16.6.0"
   },
   "devDependencies": {
     "esm": "^3.0.84"
