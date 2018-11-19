@@ -1,1 +1,2 @@
-export const message = 'Importing an ES6 module in Next.js via ESM worked!';
+export const message = () =>
+  <div>'Importing an ES6 module with JSX in Next.js via ESM worked!'</div>;
